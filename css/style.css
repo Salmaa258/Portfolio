@@ -6875,6 +6875,7 @@ button.bg-dark:focus {
 
 .align-items-center {
   align-items: center !important;
+  justify-content: center;
 }
 
 .align-items-baseline {
